@@ -1,5 +1,5 @@
 name: aksara
-description: a dart package to transliterate Indonesian local script such as java, sunda and other etnic of indonesia to latin alphabet or vice versa.
+description: a dart package to transliterate Indonesian local script such as java, sunda and other ethnic of Indonesia to latin alphabet or vice versa.
 version: 0.0.2
 author: Ujang karnadi<uk9313285@gmail.com>
 homepage: https://github.com/karnadii/aksara
