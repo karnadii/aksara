@@ -1,8 +1,8 @@
 # aksårå
 
-A dart package to transliterate indonesian local script to latin and vice versa, currently only have java script, more transliteration to other script like sunda, bali and so on will be added in the future.
+A dart package to transliterate Indonesian local script to latin and vice versa, currently only have javanese script, more transliteration to other script like sunda, bali and so on will be added in the future.
 
-[java](https://en.wikipedia.org/wiki/Java) here is a majority ethnic in indonesia, not to be confused with [java](https://www.java.com) or [javaScript](https://en.wikipedia.org/wiki/JavaScript)
+[java](https://en.wikipedia.org/wiki/Java) here is a majority ethnic in Indonesia, not to be confused with [java](https://www.java.com) or [javaScript](https://en.wikipedia.org/wiki/JavaScript)
 
 ## Getting Started
 
