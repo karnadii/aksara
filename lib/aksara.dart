@@ -46,7 +46,7 @@ class AksaraJava {
     return latinScript;
   }
 
-  /// Convert latin to  java script 
+  /// Convert latin to  java script
   ///
   /// jika mode [isCopas] Anda bisa kopipas dari artikel yang menggunakan huruf 'e' beraksen (è/é), misalnya dari artikel Wikipedia bahasa Jawa.
   /// Anda juga bisa menggunakan mode ini untuk mengetik kata-kata dalam bahasa Indonesia, misalnya, karena mayoritas huruf 'e' dalam bahasa Indonesia (terutama imbuhan), adalah pepet
@@ -59,7 +59,7 @@ class AksaraJava {
   String latinToJava(String script,
       {bool isMurdha = false, bool isCopas = false, bool isSpasi = false}) {
     _isCopas = isCopas;
-     _isMurdha = isMurdha;
+    _isMurdha = isMurdha;
     _isSpasi = _isSpasi;
     var javaScript = _transliterateLatinToJava(script);
     return javaScript;
